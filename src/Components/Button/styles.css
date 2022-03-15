@@ -1,0 +1,22 @@
+.button {
+  font-weight: bold;
+  font-size: 16px;
+  text-transform: uppercase;
+  padding: 18px 30px;
+  border-radius: 50px;
+  border: none;
+}
+.button:hover {
+    cursor: pointer;
+  transform: scale(1.04);
+  background-color: #3be677;
+}
+.sucess {
+  background-color: #1ed760;
+  color: #2941ab;
+}
+
+.error {
+  background-color: #d71e1e;
+  color: #ffffff;
+}
