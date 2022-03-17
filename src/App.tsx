@@ -1,13 +1,12 @@
-import React from 'react';
-import Banner from './Components/Banner';
-import './Assets/styles/global.css'
+
+import './Assets/styles/global.css';
+import Routes from './Routes';
+
 
 function App() {
   return (
-    <div className="App">
-      <Banner/>
-    </div>
-  );
+    <Routes/>
+  )
 }
 
 export default App;

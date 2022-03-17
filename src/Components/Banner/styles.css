@@ -1,6 +1,6 @@
 .banner {
   background-color: #2941ab;
-  height: 80vh;
+  height: 100vh;
   color: #1ed760;
   display: flex;
   justify-content: center;
@@ -8,17 +8,19 @@
   flex-direction: column;
   gap: 30px;
   background-image: url(https://www-growth.scdn.co/static/home/bursts.svg);
-  background-position: 46% 4%;
-  background-size: 175%;
+  background-position: 46% 7%;
+  background-size: 172.5%;
 }
 
 .banner h1 {
   font-size: 156px;
   text-align: center;
   font-weight: 700;
+  letter-spacing: -7.5px;
 }
 
 .banner p {
-  font-weight: bold;
+  font-weight: 600;
   font-size: 18px;
+  margin-bottom: 20px;
 }

@@ -1,0 +1,22 @@
+.header {
+  height: 89px;
+  width: 100%;
+  background-color: black;
+}
+.header ul {
+  list-style-type: none;
+  display: flex;
+  font-size: 15.5px;
+  font-weight: 700;
+  margin-left: 52.9%;
+  max-width: 1050px;
+}
+
+.header li {
+  margin-top: 1.4vh;
+  padding: 19px;
+}
+
+.header li:hover {
+  color: #1ed760;
+}

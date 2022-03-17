@@ -1,0 +1,16 @@
+a {
+  text-decoration: none;
+}
+
+.navBarMenu {
+  color: white;
+}
+.navBarDiv {
+  font-weight: 100;
+  color: white;
+}
+
+.navBarDiv:hover {
+  font-weight: 100;
+  color: white !important;
+}

@@ -1,0 +1,22 @@
+.smallInfoFormat {
+  display: flex;
+  flex-direction: row;
+  color: rgb(180, 180, 180);
+  list-style-type: none;
+  font-size: 12px;
+  margin-left: 26.1%;
+  margin-top: 12.4%;
+}
+
+.footerTextLeft {
+  margin-left: 30px;
+}
+.footerTextRightUp {
+  margin-top: -1.6%;
+  margin-left: 31.5%;
+  filter: saturate(0%);
+}
+
+.footerTextRight {
+  margin-left: -5%;
+}
